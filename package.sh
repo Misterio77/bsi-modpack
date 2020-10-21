@@ -3,7 +3,7 @@
 function manifest {
     first=true
     forge="forge-14.23.5.2854"
-    version="0.1.1"
+    version="0.1.2"
     printf '{'
     printf '"minecraft":'
     printf '{'
