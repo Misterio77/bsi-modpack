@@ -34,21 +34,6 @@ key_key.hotbar.9:10:NONE
 key_of.key.zoom:0:NONE
 key_Change Caster Focus:47:NONE
 key_Misc Caster Toggle:47:SHIFT
-key_Airship Up:57:NONE
-key_Airship Forward:17:NONE
-key_Airship Backward:31:NONE
-key_Airship Turn Left:30:NONE
-key_Airship Turn Right:32:NONE
-key_Airship Down:45:NONE
-key_Airship Sprinting:29:NONE
-key_VS Controller Dismount Key:42:NONE
-key_Zepplin Airship Up:78:NONE
-key_Zepplin Airship Forward:72:NONE
-key_Zepplin Airship Backward:80:NONE
-key_Zepplin Airship Turn Left:75:NONE
-key_Zepplin Airship Turn Right:77:NONE
-key_Zepplin Airship Down:74:NONE
-key_Zepplin Airship Stop:76:NONE
 key_keybind.baublesinventory:0:NONE
 key_quark.emote.no:0:NONE
 key_quark.emote.yes:0:NONE
@@ -68,6 +53,8 @@ key_quark.emote.dab:0:NONE
 key_quark.emote.jet:0:NONE
 key_quark.emote.exorcist:0:NONE
 key_quark.emote.zombie:0:NONE
+key_quark.keybind.lockBuilding:37:NONE
+key_quark.keybind.toggleAutojump:49:NONE
 key_quark.keybind.dropoff:0:NONE
 key_quark.keybind.changeHotbar:44:NONE
 key_quark.keybind.chestSort:0:NONE
@@ -76,8 +63,6 @@ key_quark.keybind.chestMerge:0:NONE
 key_quark.keybind.chestRestock:0:NONE
 key_quark.keybind.chestExtract:0:NONE
 key_quark.keybind.playerSort:0:NONE
-key_quark.keybind.toggleAutojump:49:NONE
-key_quark.keybind.lockBuilding:37:NONE
 key_bloodmagic.keybind.open_holding:35:NONE
 key_bloodmagic.keybind.cycle_holding_pos:13:SHIFT
 key_bloodmagic.keybind.cycle_holding_neg:12:SHIFT
@@ -117,6 +102,8 @@ key_key.jei.previousPage:201:NONE
 key_key.jei.nextPage:209:NONE
 key_key.jei.bookmark:30:NONE
 key_key.jei.toggleBookmarkOverlay:0:NONE
+key_atlasextras.keybind.togglehud:51:NONE
+key_atlasextras.keybind.openatlas:50:NONE
 key_nei.options.keys.gui.botania_corporea_request:46:NONE
 key_key.colytra.toggle.desc:39:NONE
 key_key.refinedstorage.focusSearchBar:15:NONE
@@ -126,9 +113,9 @@ key_key.refinedstorage.openWirelessFluidGrid:0:NONE
 key_key.refinedstorage.openPortableGrid:0:NONE
 key_key.refinedstorage.openWirelessCraftingMonitor:0:NONE
 key_key.placeItem:25:NONE
-key_key.toolConfig:51:NONE
-key_key.toolProfileChange:43:NONE
-key_key.armorProfileChange:43:ALT
+key_key.toolConfig:26:NONE
+key_key.toolProfileChange:0:NONE
+key_key.armorProfileChange:0:NONE
 key_key.toggleFlight:0:NONE
 key_key.toggleDislocator:0:NONE
 key_key.cycleDigAOE:0:NONE
@@ -160,7 +147,7 @@ key_enderio.keybind.jump:0:NONE
 key_enderio.keybind.top:0:NONE
 key_enderio.keybind.tnt:0:NONE
 key_enderio.keybind.yetawrenchmode:21:NONE
-key_enderio.keybind.magnet:21:SHIFT
+key_enderio.keybind.magnet:0:NONE
 key_enderio.keybind.fovreset:0:NONE
 key_enderio.keybind.fovunreset:0:NONE
 key_enderio.keybind.fovstore:0:NONE
