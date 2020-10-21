@@ -33,6 +33,9 @@
     "antiqueatlas:sword": {},
     "antiqueatlas:tomb": {},
     "antiqueatlas:tower": {},
-    "antiqueatlas:village": {}
+    "antiqueatlas:village": {},
+    "atlasextras:travel": {},
+    "atlasextras:travelfrom": {},
+    "atlasextras:travelto": {}
   }
 }
