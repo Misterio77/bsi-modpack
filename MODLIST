@@ -13,7 +13,7 @@ blood-magic                         224791:2822288
 botania                             225643:2846950
 brandons-core                       231382:3051539
 bubble-column-elevator-backport     327277:2795014
-chameleon                           230496:2450900
+chameleon                           230497:2450900
 charm                               318872:3067134
 chickens-chunks-1-8                 243883:2755785
 chisel                              235279:2915375
@@ -21,11 +21,12 @@ codechicken-lib                     242818:2779848
 colytra                             280200:2828877
 commons0815                         346326:3000327
 compact-machines                    224218:2707509
-conduits-1-12                       253449:2850235
+conduits-1-12                       322124:2850235
 constructs-armory                   287683:2962662
 cooking-for-blockheads              231484:2862651
 cosmetic-armor-reworked             237307:2937869
 ctm                                 267602:2915363
+custom-starter-gear                 253735:2514705
 default-options                     232131:2624732
 draconic-evolution                  223565:3051542
 dtbop                               289529:3058113
@@ -59,6 +60,7 @@ immersive-petroleum                 268250:2544919
 instantunify                        277047:2578325
 jaopca                              266936:2722779
 jei                                 238222:3043174
+jetif                               303122:2919936
 just-enough-petroleum               291727:2549332
 just-enough-resources               240630:2728585
 librarianlib                        252910:3041340

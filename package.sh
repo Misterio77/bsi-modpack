@@ -3,6 +3,7 @@
 function manifest {
     first=true
     forge="forge-14.23.5.2854"
+    version="0.1.1"
     printf '{'
     printf '"minecraft":'
     printf '{'
@@ -12,7 +13,7 @@ function manifest {
     printf '"manifestType":"minecraftModpack",'
     printf '"manifestVersion":1,'
     printf '"name":"Modpack da Informação"',
-    printf '"version":"0.1.1",'
+    printf '"version":"%s",' "$version"
     printf '"author":"Misterio7x",'
     printf '"overrides": "overrides",'
     printf '"files":['
@@ -33,4 +34,5 @@ function manifest {
 }
 
 manifest | jq > curseforge/manifest.json
+rm releaze.zip
 zip release.zip curseforge/{overrides,manifest.json} -r
