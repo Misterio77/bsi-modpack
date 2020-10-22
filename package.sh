@@ -1,9 +1,9 @@
 #!/usr/bin/bash
+version="0.1.2"
 
 function manifest {
     first=true
     forge="forge-14.23.5.2854"
-    version="0.1.2"
     printf '{'
     printf '"minecraft":'
     printf '{'
@@ -35,4 +35,7 @@ function manifest {
 
 manifest | jq > curseforge/manifest.json
 rm releaze.zip
-zip release.zip curseforge/{overrides,manifest.json} -r
+cd curseforge
+zip release.zip overrides manifest.json -r
+cd ../
+mv curseforge/release.zip modpack-da-informacao-$version.zip

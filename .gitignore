@@ -1,5 +1,5 @@
 curseforge/overrides/mods
-release.zip
+*.zip
 curseforge/overrides/config/thaumicjei_itemstack_aspects.json
 curseforge/overrides/config/jei/worldSettings.cfg
 curseforge/overrides/config/astralsorcery/amulet_enchantments.cfg

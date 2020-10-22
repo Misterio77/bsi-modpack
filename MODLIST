@@ -7,6 +7,7 @@ atlas-extras                        302128:2933507
 autoreglib                          250363:2746011
 baubles                             227083:2518667
 bed-patch                           282963:2532663
+betterfps                           229876:2483393
 bibliocraft                         228027:2574880
 biomes-o-plenty                     220318:2842510
 blood-magic                         224791:2822288
@@ -34,6 +35,7 @@ dtphc                               307560:2656685
 dttc                                292752:3053187
 dummycore-unofficial                266491:2611426
 dynamic-surroundings                238891:2922489
+dynamic-trees-extra-utilities-2     386760:2968950
 dynamic-trees-forestry              401558:3059067
 dynamic-trees-natura                366216:3070627
 dynamic-trees-quark                 386753:2983080
@@ -46,6 +48,7 @@ ender-io                            64578:3068701
 ender-storage-1-8                   245174:2755787
 endercore                           231868:2972849
 environmental-tech                  245453:2691536
+extra-utilities                     225561:2678374
 flux-networks                       248020:2993739
 foamfix-optimization-mod            278494:2845668
 forestry                            59751:2684780
@@ -102,7 +105,6 @@ thinkers-jei                        291786:2701203
 tinkers-complement                  272671:2843439
 tinkers-construct                   74072:2902483
 unidict                             244258:3065390
-unlimited-chisel-works              278493:2850337
 valkyrielib                         245480:2691542
 vanillafix                          292785:2915154
 waila-harvestability                79287:2481605
