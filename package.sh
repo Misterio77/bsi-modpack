@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-version="0.1.2"
+version="0.1.4"
 
 function manifest {
     first=true

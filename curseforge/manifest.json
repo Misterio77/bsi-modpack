@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Modpack da Informação",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "author": "Misterio7x",
   "overrides": "overrides",
   "files": [
@@ -341,11 +341,6 @@
       "required": true
     },
     {
-      "projectID": 296289,
-      "fileID": 2919737,
-      "required": true
-    },
-    {
       "projectID": 303122,
       "fileID": 2919936,
       "required": true
@@ -388,6 +383,11 @@
     {
       "projectID": 225738,
       "fileID": 2503041,
+      "required": true
+    },
+    {
+      "projectID": 263624,
+      "fileID": 2579934,
       "required": true
     },
     {
@@ -556,11 +556,6 @@
       "required": true
     },
     {
-      "projectID": 278493,
-      "fileID": 2850337,
-      "required": true
-    },
-    {
       "projectID": 245480,
       "fileID": 2691542,
       "required": true
@@ -578,6 +573,11 @@
     {
       "projectID": 253043,
       "fileID": 3064112,
+      "required": true
+    },
+    {
+      "projectID": 224712,
+      "fileID": 2916368,
       "required": true
     },
     {
