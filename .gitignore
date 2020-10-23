@@ -1,3 +1,4 @@
+.mods/*
 curseforge/overrides/mods
 *.zip
 curseforge/overrides/config/thaumicjei_itemstack_aspects.json
