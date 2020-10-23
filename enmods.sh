@@ -1,4 +1,3 @@
 #!/usr/bin/bash
 
-mv .mods/*.jar curseforge/overrides/mods/
-mv .mods/*.zip curseforge/overrides/shaderpacks/
+mv .illegal_overrides/{mods,shaderpacks} curseforge/overrides/
