@@ -74,6 +74,10 @@
     "biomesoplenty:white_beach": "SHORE",
     "biomesoplenty:woodland": "FOREST",
     "biomesoplenty:xeric_shrubland": "V_DESERT_HILLS",
+    "dimdoors:black_void": "PLAINS",
+    "dimdoors:dangerous_black_void": "PLAINS",
+    "dimdoors:limbo": "PLAINS",
+    "dimdoors:white_void": "PLAINS",
     "minecraft:beaches": "SHORE",
     "minecraft:birch_forest": "BIRCH",
     "minecraft:birch_forest_hills": "BIRCH_HILLS",
@@ -139,6 +143,9 @@
     "thaumcraft:eerie": "PLAINS",
     "thaumcraft:eldritch": "PLAINS",
     "thaumcraft:magical_forest": "TC_MAGICAL",
+    "thaumicaugmentation:emptiness": "PLAINS",
+    "thaumicaugmentation:emptiness_highlands": "MOUNTAINS_NAKED",
+    "thaumicaugmentation:tainted_lands": "PLAINS",
     "yurtmod:tent": "PLAINS"
   }
 }
