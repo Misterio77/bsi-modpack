@@ -18,6 +18,7 @@ chameleon                           230497:2450900
 charm                               318872:3067134
 charset-lib                         284523:3066682
 charset-storage-chests              298584:2745002
+chest-transporter                   78778:2524058
 chickens-chunks-1-8                 243883:2755785
 chisel                              235279:2915375
 codechicken-lib                     242818:2779848
@@ -28,9 +29,11 @@ conduits-1-12                       322124:2850235
 constructs-armory                   287683:2962662
 cooking-for-blockheads              231484:2862651
 cosmetic-armor-reworked             237307:2937869
+crimson-revelations                 359498:2903439
 ctm                                 267602:2915363
 custom-starter-gear                 253735:2514705
 default-options                     232131:2624732
+dimensionaldoors                    284876:2558528
 draconic-evolution                  223565:3051542
 dtbop                               289529:3058113
 dtphc                               307560:2656685
@@ -76,6 +79,7 @@ mekanism-tools                      268567:2835178
 mmmmmmmmmmmm                        225738:2503041
 moar-tinkers                        263624:2579934
 morph-o-tool                        245287:2658176
+morpheus                            69118:2664449
 mystical-gears                      317915:3020021
 mysticalmechanics                   300742:3006392
 natura                              74120:2711439
@@ -93,6 +97,8 @@ redstone-flux                       270789:2920436
 refined-storage                     243076:2940914
 refined-storage-addons              272302:2941010
 reliquary-v1-3                      241319:2761319
+roguelike-dungeons-fnar-edition     373157:3048689
+ruins-structure-spawning-system     227873:2721268
 rustic                              256141:3053139
 shadowfacts-forgelin                248453:2785465
 signpost                            261837:2756629
@@ -101,12 +107,7 @@ stimmedcow-nomorerecipeconflict     238123:2671230
 storage-drawers                     223852:2952606
 storage-drawers-extra               254879:2443623
 thaumcraft                          223628:2629023
-ruins-structure-spawning-system     227873:2721268
-roguelike-dungeons-fnar-edition     373157:3048689
-dimensionaldoors                    284876:2558528
-crimson-revelations                 359498:2903439
 thaumic-augmentation                319441:3089750
-chest-transporter                   78778:2524058
 thaumic-bases-unofficial            293406:3056921
 thaumic-jei                         285492:2705304
 thaumic-periphery                   293505:2766866
