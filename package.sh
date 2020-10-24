@@ -10,4 +10,5 @@ zip release.zip overrides manifest.json -r
 cd ../
 
 mv curseforge/release.zip modpack-da-informacao-$version.zip
+
 mv .tmp_mods curseforge/overrides/mods
