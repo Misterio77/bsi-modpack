@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Modpack da Informação",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "author": "Misterio7x",
   "overrides": "overrides",
   "files": [
@@ -598,6 +598,11 @@
     {
       "projectID": 74072,
       "fileID": 2902483,
+      "required": true
+    },
+    {
+      "projectID": 250957,
+      "fileID": 2630860,
       "required": true
     },
     {
