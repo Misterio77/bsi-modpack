@@ -35,6 +35,15 @@ key_of.key.zoom:0:NONE
 key_Change Caster Focus:47:NONE
 key_Misc Caster Toggle:47:SHIFT
 key_keybind.baublesinventory:0:NONE
+key_quark.keybind.dropoff:0:NONE
+key_quark.keybind.changeHotbar:44:NONE
+key_quark.keybind.chestSort:0:NONE
+key_quark.keybind.chestDropoff:0:NONE
+key_quark.keybind.chestMerge:0:NONE
+key_quark.keybind.chestRestock:0:NONE
+key_quark.keybind.chestExtract:0:NONE
+key_quark.keybind.playerSort:0:NONE
+key_quark.keybind.lockBuilding:37:NONE
 key_quark.emote.no:0:NONE
 key_quark.emote.yes:0:NONE
 key_quark.emote.wave:0:NONE
@@ -53,16 +62,7 @@ key_quark.emote.dab:0:NONE
 key_quark.emote.jet:0:NONE
 key_quark.emote.exorcist:0:NONE
 key_quark.emote.zombie:0:NONE
-key_quark.keybind.lockBuilding:37:NONE
 key_quark.keybind.toggleAutojump:49:NONE
-key_quark.keybind.dropoff:0:NONE
-key_quark.keybind.changeHotbar:44:NONE
-key_quark.keybind.chestSort:0:NONE
-key_quark.keybind.chestDropoff:0:NONE
-key_quark.keybind.chestMerge:0:NONE
-key_quark.keybind.chestRestock:0:NONE
-key_quark.keybind.chestExtract:0:NONE
-key_quark.keybind.playerSort:0:NONE
 key_bloodmagic.keybind.open_holding:35:NONE
 key_bloodmagic.keybind.cycle_holding_pos:13:SHIFT
 key_bloodmagic.keybind.cycle_holding_neg:12:SHIFT
@@ -84,6 +84,13 @@ key_key.conarm.toggle_helm.desc:34:NONE
 key_key.conarm.toggle_chest.desc:35:NONE
 key_key.conarm.toggle_leg.desc:36:NONE
 key_cos.key.opencosarmorinventory:0:NONE
+key_key.xu2.searchforitems:20:NONE
+key_Open MPS Keybind GUI:27:NONE
+key_Go Down (MPS Flight Control):29:NONE
+key_Cycle Tool Backward (MPS):0:NONE
+key_Cycle Tool Forward (MPS):0:NONE
+key_Cosmetic (MPS):0:NONE
+key_thaumicaugmentation.key.elytra_boost:57:NONE
 key_key.openglasses.interact:45:NONE
 key_key.openglasses.stable_interact:45:SHIFT
 key_key.openglasses.nightvision:52:SHIFT
@@ -91,6 +98,7 @@ key_key.openglasses.thermalvision:52:ALT
 key_key.openglasses.config:52:NONE
 key_key.dismount:42:NONE
 key_key.narrator:0:NONE
+key_key.openatlas.desc:0:NONE
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0:NONE
@@ -133,13 +141,14 @@ key_mekanism.key.mode:24:NONE
 key_mekanism.key.armorMode:22:NONE
 key_mekanism.key.feetMode:23:NONE
 key_mekanism.key.voice:0:NONE
+key_keybind.fovfixtoggle:0:NONE
 key_key.refinedstorageaddons.openWirelessCraftingGrid:0:NONE
 key_xreliquary.keybind.fortune_coin:0:NONE
-key_enderio.keybind.inventory:0:NONE
+key_enderio.keybind.inventory:23:NONE
 key_enderio.keybind.dsu:0:NONE
-key_enderio.keybind.glidertoggle:0:NONE
+key_enderio.keybind.glidertoggle:34:NONE
 key_enderio.keybind.soundlocator:0:NONE
-key_enderio.keybind.nightvision:0:NONE
+key_enderio.keybind.nightvision:25:NONE
 key_enderio.keybind.gogglesofrevealing:0:NONE
 key_enderio.keybind.stepassist:0:NONE
 key_enderio.keybind.speed:0:NONE
