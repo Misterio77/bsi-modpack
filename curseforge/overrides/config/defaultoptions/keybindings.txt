@@ -105,7 +105,7 @@ key_key.ebwizardry.spell_6:7:ALT
 key_key.ebwizardry.spell_7:8:ALT
 key_key.ebwizardry.spell_8:9:ALT
 key_thaumicaugmentation.key.elytra_boost:57:NONE
-key_key.wearablebackpacks.open:487:NONE
+key_key.wearablebackpacks.open:48:NONE
 key_key.dismount:42:NONE
 key_key.narrator:0:NONE
 key_key.openatlas.desc:0:NONE
