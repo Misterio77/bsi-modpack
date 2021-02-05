@@ -16,6 +16,7 @@ betterfps                           229876:2483393
 bibliocraft                         228027:2574880
 biomes-o-plenty                     220318:2842510
 blood-magic                         224791:2822288
+bonsai-trees                        278993:2846217
 botania                             225643:2846950
 bubble-column-elevator-backport     327277:2795014
 camouflaged-creeper                 244447:2823903
@@ -40,7 +41,10 @@ default-options                     232131:2624732
 dimensionaldoors                    284876:2558528
 dynamic-surroundings                238891:2922489
 electroblobs-wizardry               265642:3100554
+ender-core                          231868:2972849
+ender-io                            64578:3124452
 ender-storage-1-8                   245174:2755787
+extra-utilities                     225561:2678374
 farseek                             229708:3093852
 foamfix-optimization-mod            278494:2845668
 forestry                            59751:2684780
@@ -59,11 +63,15 @@ ivtoolkit                           224535:2443253
 jaopca                              266936:2722779
 jei                                 238222:3043174
 jetif                               303122:2919936
+just-enough-ids                     296289:2919737
 just-enough-petroleum               291727:2549332
 just-enough-resources               240630:2728585
 librarianlib                        252910:3041340
 llibrary                            243298:2704186
 mantle                              74924:2713386
+mekanism                            268560:2835175
+mekanism-generators                 268566:2835177
+mekanism-tools                      268567:2835178
 mmmmmmmmmmmm                        225738:2503041
 moar-tinkers                        263624:2579934
 modded-16x                          350863:2825667
@@ -72,9 +80,14 @@ mystical-world                      282940:3054945
 mysticallib                         277064:3040592
 natura                              74120:2711439
 nomadic-tents                       238794:2836904 
+open-blocks                         228816:2699056
+open-computers                      223008:2828357
+open-glasses                        300957:2842055
+open-mods-lib                       228815:2699055
 orelib                              307806:2820815
 pams-harvestcraft                   221857:2904825
 patchouli                           306770:3087124
+phosphor                            318255:2747710
 placebo                             283644:2694382
 psi                                 241665:3085917
 quark                               243121:2924091
@@ -84,6 +97,7 @@ randompatches                       285612:3070895
 rats                                323596:3028671
 realistic-terrain-generation        237989:2782568
 recurrent-complex                   223150:2689602
+refined-storage                     243076:2940914
 reliquary-v1-3                      241319:2761319
 roguelike-dungeons-fnar-edition     373157:3048689
 roots                               246183:3056896
