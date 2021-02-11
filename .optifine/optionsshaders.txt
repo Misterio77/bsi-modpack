@@ -1,5 +1,5 @@
 #Fri Oct 23 22:22:52 BRT 2020
-shaderPack=ComplementaryShaders_3.09.zip
+shaderPack=BSL+v7.1.01.zip
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true

@@ -41,11 +41,13 @@ default-options                     232131:2624732
 dimensionaldoors                    284876:2558528
 dynamic-surroundings                238891:2922489
 electroblobs-wizardry               265642:3100554
+elenai-dodge                        442962:3198380
 ender-core                          231868:2972849
 ender-io                            64578:3124452
 ender-storage-1-8                   245174:2755787
 extra-utilities                     225561:2678374
 farseek                             229708:3093852
+flux-networks                       248020:3178199
 foamfix-optimization-mod            278494:2845668
 forestry                            59751:2684780
 fossils                             223908:2919673
@@ -66,6 +68,7 @@ jetif                               303122:2919936
 just-enough-ids                     296289:2919737
 just-enough-petroleum               291727:2549332
 just-enough-resources               240630:2728585
+just-enough-throwing-in-fluids      303122:2919936
 librarianlib                        252910:3041340
 llibrary                            243298:2704186
 mantle                              74924:2713386
@@ -89,7 +92,9 @@ pams-harvestcraft                   221857:2904825
 patchouli                           306770:3087124
 phosphor                            318255:2747710
 placebo                             283644:2694382
+potion-core                         242872:2905184
 psi                                 241665:3085917
+quality-tools                       264756:2732994
 quark                               243121:2924091
 quark-oddities                      301051:2604798
 random-psideas                      302313:2725942
